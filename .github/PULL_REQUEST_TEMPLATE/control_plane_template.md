@@ -13,7 +13,7 @@ Add a changelog entry for this PR by answering the following questions:
   4. By default, Azure SDKs of all languages (.NET/Python/Java/JavaScript for both management-plane SDK and data-plane SDK, Go for management-plane SDK only ) MUST be refreshed with/after swagger of new version is published. If you prefer NOT to refresh any specific SDK language upon swagger updates in the current PR, please leave details with justification here.
 
 ### Contribution checklist (MS Employees Only):
-- [ ] I commit to follow the [Breaking Change Policy](https://aka.ms/AzBreakingChangesPolicy) of "no breaking changes"
+- [ ] I commit to follow the [Breaking Change Policy](https://aka.ms/AzBreakingChangesPolicy) of "no breaking changes."
 - [ ] I have reviewed the [documentation](https://aka.ms/ameonboard) for the workflow.
 - [ ] [Validation tools](https://aka.ms/swaggertools) were run on swagger spec(s) and errors have all been fixed in this PR. [How to fix?](https://aka.ms/ci-fix)
 
